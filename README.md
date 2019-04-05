@@ -1,1 +1,2 @@
 # AlgorithmNote
+# learn algorithm note
